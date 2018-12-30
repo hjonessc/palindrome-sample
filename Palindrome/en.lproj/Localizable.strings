@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Palindrome
+
+  Created by Henry Jones on 12/13/18.
+  Copyright © 2018 Henry. All rights reserved.
+*/
+
+"HOME_TITLE" = "Palindrome!";
+"HOME_SUBTITLE" = "Try your luck, enter a word!";

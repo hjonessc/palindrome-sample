@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Palindrome
+
+  Created by Henry Jones on 12/13/18.
+  Copyright © 2018 Henry. All rights reserved.
+*/
+
+"HOME_TAB"           = "Accueil";
+"HOME_TITLE"         = "Palindrome French!";
+"HOME_SUBTITLE"      = "M'aidez! Je ne parle pas le français!";
+"WINNING_STREAK"     = "Série de victoires: %d";
+"CORRECT_COUNT"      = "Correct: %d";
+"INCORRECT_COUNT"    = "Incorrect: %d";
+"TEXT_FIELD_DEFAULT" = "Entrer Palindrome";
+"SUBMIT_BUTTON_TITLE"= "Submit";
+"SETTINGS_TITLE"     = "Settings";
+"SETTINGS_TAB"       = "Réglages";
+"SETTINGS_DESC"      = "Erreur de traduction de Google";
